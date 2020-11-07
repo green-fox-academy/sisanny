@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Home page</title>
+</head>
+<body>
+<div th:object="${user}">
+    <h1>The Quiz Game</h1>
+    <a th:href="'/question'">Add a question</a>
+    <a th:href="'/quiz'">Start the Quiz</a>
+</body>
+</html>

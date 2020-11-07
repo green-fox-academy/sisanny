@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+<p>working</p>
+<nav th:fragment="navbar">
+    <ul>
+        <li><a th:text="Colored" th:href="@{/useful/colored}"></a></li>
+        <li><a th:text="Email" th:href="@{/useful/email}"></a></li>
+    </ul>
+</nav>
+
+</body>
+</html>

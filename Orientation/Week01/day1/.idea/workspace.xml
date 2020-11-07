@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c72d135-f243-46ff-87c2-21d2b363525c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Week02/day3/src/main/resources/templates/Thymeleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week02/day3/src/main/resources/templates/Thymeleaf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/java/com/lionking/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/java/com/lionking/demo/controller/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/java/com/lionking/demo/model/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/resources/templates/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/main/resources/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week03/day1/LionKing/src/test/java/com/lionking/demo/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1faMkXArD0aHc6yjkU2TPbcKNVb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Exercise10">
+    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise10.Exercise10" />
+      <module name="day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise6" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise7" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise8" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise10" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c72d135-f243-46ff-87c2-21d2b363525c" name="Default Changelist" comment="" />
+      <created>1596451893854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596451893854</updated>
+      <workItem from="1596451897265" duration="608000" />
+      <workItem from="1596630801777" duration="18000" />
+      <workItem from="1596882479574" duration="11417000" />
+      <workItem from="1596960490340" duration="6147000" />
+      <workItem from="1597248088467" duration="8743000" />
+      <workItem from="1597489924493" duration="1023000" />
+      <workItem from="1598358228456" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="225" width="544" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1597255337253">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="683" y="225" width="544" height="590" key="#com.intellij.ide.util.MemberChooser/0.27.1920.988@0.27.1920.988" timestamp="1597255337253" />
+    <state x="713" y="408" width="494" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596963402407">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="713" y="408" width="494" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.988@0.27.1920.988" timestamp="1596963402407" />
+    <state x="743" y="279" width="424" height="482" key="FileChooserDialogImpl" timestamp="1597490941550">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="279" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1597490941550" />
+    <state width="1874" height="250" key="GridCell.Tab.0.bottom" timestamp="1597258859137">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="250" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1597258859137" />
+    <state width="1874" height="250" key="GridCell.Tab.0.center" timestamp="1597258859137">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="250" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1597258859137" />
+    <state width="1874" height="250" key="GridCell.Tab.0.left" timestamp="1597258859136">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="250" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1597258859136" />
+    <state width="1874" height="250" key="GridCell.Tab.0.right" timestamp="1597258859137">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="250" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1597258859137" />
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom" timestamp="1596898951528">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1596898951528" />
+    <state width="1874" height="318" key="GridCell.Tab.1.center" timestamp="1596898951527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1596898951527" />
+    <state width="1874" height="318" key="GridCell.Tab.1.left" timestamp="1596898951527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1596898951527" />
+    <state width="1874" height="318" key="GridCell.Tab.1.right" timestamp="1596898951527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1596898951527" />
+    <state x="269" y="123" width="1372" height="794" key="new project wizard" timestamp="1597490944692">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="269" y="123" width="1372" height="794" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1597490944692" />
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1596961491128">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/0.27.1920.988@0.27.1920.988" timestamp="1596961491128" />
+  </component>
+</project>

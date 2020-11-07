@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37b21d64-cad2-42dd-b1ba-990914bfdbe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Week02/day3/src/main/resources/static/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02/day3/src/main/resources/static/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week02/day3/src/main/resources/templates/Thymeleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02/day3/src/main/resources/templates/Thymeleaf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/java/com/lionking/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/java/com/lionking/demo/controller/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/java/com/lionking/demo/model/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/resources/templates/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/main/resources/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LionKing/src/test/java/com/lionking/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/main/java/com/lionking/lionking/model/BankAccountList.java" beforeDir="false" afterPath="$PROJECT_DIR$/day2/src/main/java/com/lionking/lionking/model/BankAccountList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/main/resources/templates/showListTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/src/main/resources/templates/showListTemplate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04/day1/src/main/java/com/programmerfox/demo/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04/day1/src/main/java/com/programmerfox/demo/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04/day1/src/main/java/com/programmerfox/demo/model/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04/day1/src/main/java/com/programmerfox/demo/model/Fox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04/day1/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04/day1/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04/day1/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04/day1/src/main/resources/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1h0XT4nlCqEbDYF1dNEHItBFdyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b21d64-cad2-42dd-b1ba-990914bfdbe7" name="Default Changelist" comment="" />
+      <created>1599148987917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599148987917</updated>
+      <workItem from="1599148989455" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+package com.example.foxprogrammerrefactor;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FoxprogrammerrefactorApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FoxprogrammerrefactorApplication.class, args);
+    }
+
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Main page</title>
+</head>
+<body>
+<h1>Give feedback for </h1>
+<div th:each="mentor : ${mentorList}">
+    <a th:href="@{/mentor/{id} (id = ${mentor.getId()})}" th:text="${mentor.getName()}">
+    </a>
+</div>
+<form action="/mentor" method="post">
+    <h2>Can't see your mentors on the list? Add them below!</h2>
+    <label for="mentor">Name</label>
+    <input id="mentor" name="name">
+    <label for="class">Class</label>
+    <select id="class" name="class">
+        <option>Tiptop</option>
+        <option>Roboto</option>
+        <option>Really</option>
+        <option>Seadog</option>
+    </select>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>

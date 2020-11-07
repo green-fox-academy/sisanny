@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+</head>
+<body>
+<nav th:fragment="navbar (fox)">
+    <ul>
+        <li><a th:text="Information" th:href="@{'/?name' + ${fox}}"></a></li>
+        <!--<li><a th:text="Nutrition Store" th:href="@{/nutritionStore}"></a></li>-->
+        <!--<li> <a th:text="Trick Store" th:href=""></a></li>
+        <li> <a th:text="Action History" th:href=""></a></li>-->
+    </ul>
+</nav>
+</body>
+</html>

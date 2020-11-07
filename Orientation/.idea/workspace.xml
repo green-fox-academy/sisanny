@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ff02b7b-50d3-4cae-b522-bffb3d89edd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day1/src/exercise10/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day1/src/exercise10/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/day3/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/day3/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/LoginForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/LoginForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/LoginFormStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/LoginFormStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/Newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/Newsletter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/SignUpForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/SignUpForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/SignUpFormStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/SignUpFormStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/Table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day1/TableStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day1/TableStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day3/src/main/java/shop/webshop/controllers/ShopList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day3/src/main/java/shop/webshop/controllers/ShopList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day3/src/main/java/shop/webshop/models/ShopItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day3/src/main/java/shop/webshop/models/ShopItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/day3/src/main/resources/templates/Thymeleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/day3/src/main/resources/templates/Thymeleaf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/IDontUnderstandThisExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/IDontUnderstandThisExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/ShowListOfBankAccounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/java/com/lionking/lionking/controller/ShowListOfBankAccounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/HTMLception.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/HTMLception.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/showListTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/showListTemplate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/day2/src/main/resources/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/model/FoxesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/day1/src/main/java/com/programmerfox/demo/model/FoxesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/day1/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/day1/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/day3/src/main/java/com/example/day3/untilities/controllers/UtilityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/day3/src/main/java/com/example/day3/untilities/controllers/UtilityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/ActionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/ActionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/NutritionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/controller/NutritionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Treat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/model/Treat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/service/FoxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/java/com/example/foxprogrammerrefactor/service/FoxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/static/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/static/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/actions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/actions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/nutrition.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/nutrition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/trick.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day1/src/main/resources/templates/trick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/controllers/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/controllers/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/models/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/models/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/services/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day3/src/main/java/com/greenfoxacademy/todo/services/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week05/day3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/day3/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/models/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/PagingPerository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/PagingPerository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/PostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/java/com/greenfox/reddit/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week07/day1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Week07/day1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/AppandConroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/AppandConroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/ArrayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/ArrayHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/DoublingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/DoublingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/DountilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/DountilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/SithController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/controllers/SithController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/ArrayModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/ArrayModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/Sith.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/java/com/greenfoxacademy/frontend/models/Sith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/resources/static/frontend.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/resources/static/frontend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/day1/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week21/day1/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jNGcmjiw6YhsavOeHd5c4VJtWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RefactorOrientationExamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="refactor-orientation-exam.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.greenfoxacademy.refactororientationexam.RefactorOrientationExamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ff02b7b-50d3-4cae-b522-bffb3d89edd5" name="Default Changelist" comment="" />
+      <created>1603637217790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603637217790</updated>
+      <workItem from="1603637222806" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="263" width="424" height="511" key="FileChooserDialogImpl" timestamp="1603637578512">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="738" y="263" width="424" height="511" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1603637578512" />
+    <state x="269" y="225" width="1372" height="590" key="new project wizard" timestamp="1603637580961">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="269" y="225" width="1372" height="590" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1603637580961" />
+  </component>
+</project>

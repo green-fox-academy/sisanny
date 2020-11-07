@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b26e8b1-7ea7-4844-96c4-e2cc68b60aed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Week02/day3/src/main/resources/static/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02/day3/src/main/resources/static/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week02/day3/src/main/resources/templates/Thymeleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02/day3/src/main/resources/templates/Thymeleaf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/java/com/lionking/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/java/com/lionking/demo/controller/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/java/com/lionking/demo/model/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/resources/templates/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/main/resources/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day1/LionKing/src/test/java/com/lionking/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day2/src/main/java/com/lionking/lionking/model/BankAccountList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03/day2/src/main/java/com/lionking/lionking/model/BankAccountList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03/day2/src/main/resources/templates/showListTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03/day2/src/main/resources/templates/showListTemplate.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1grt6jqugxaZT1vtL7gbWsK5FTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+      <recent name="main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BlaTest.blaTest">
+    <configuration name="BlaTest" type="JUnit" factoryName="JUnit">
+      <module name="PreziTDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlaTest.blaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreziTDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BlaTest" />
+      <option name="METHOD_NAME" value="blaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlaTest.blaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b26e8b1-7ea7-4844-96c4-e2cc68b60aed" name="Default Changelist" comment="" />
+      <created>1598884365247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598884365247</updated>
+      <workItem from="1598884369458" duration="1493000" />
+      <workItem from="1598893924749" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="153" width="898" height="734" key="#BlaTest" timestamp="1598885168536">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="506" y="153" width="898" height="734" key="#BlaTest/0.27.1920.988@0.27.1920.988" timestamp="1598885168536" />
+    <state x="506" y="153" width="898" height="734" key="#test_in_PreziTDD" timestamp="1598885128845">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="506" y="153" width="898" height="734" key="#test_in_PreziTDD/0.27.1920.988@0.27.1920.988" timestamp="1598885128845" />
+    <state x="738" y="263" width="424" height="511" key="FileChooserDialogImpl" timestamp="1598894142648">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="738" y="263" width="424" height="511" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1598894142648" />
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1598889505042">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1598889505042" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1598889505041">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1598889505041" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1598889505041">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1598889505041" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1598889505042">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1598889505042" />
+    <state x="627" y="416" width="636" height="222" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598884743736">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="627" y="416" width="636" height="222" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.988@0.27.1920.988" timestamp="1598884743736" />
+    <state x="734" y="226" width="442" height="588" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598884950206">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="734" y="226" width="442" height="588" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1920.988@0.27.1920.988" timestamp="1598884950206" />
+    <state x="269" y="123" width="1372" height="794" key="new project wizard" timestamp="1598894154185">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="269" y="123" width="1372" height="794" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1598894154185" />
+  </component>
+</project>

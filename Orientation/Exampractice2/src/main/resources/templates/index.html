@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+</head>
+<body>
+<h1>Welcome to the Green Fox TakeOut</h1>
+<h3>Please enter your info and choose your meal</h3>
+<form action="/order" th:object="${orderForm}" method="post">
+    <label for="name">Name</label>
+    <input id="name" th:field="*{name}">
+    <label for="address">Address</label>
+    <input id="address" th:field="*{address}">
+    <p>Base</p>
+    <label for="1">rice noodles</label>
+    <input id="1" type="radio" th:value="'rice noodles'" th:field="*{base}">
+    <label for="2">white rice</label>
+    <input id="2" type="radio" th:value="'white rice'"  th:field="*{base}">
+    <label for="3">egg noodles</label>
+    <input id="3" type="radio" th:value="'egg noodles'" th:field="*{base}">
+    <label for="topping">Toppings</label>
+    <select id="topping" th:field="*{topping}">
+        <option th:value="'chicken'" th:text="chicken"></option>
+        <option th:value="'beef'" th:text="'beef'"></option>
+        <option th:value="'smoked tofu'" th:text="'smoked tofu'"></option>
+    </select>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="998cc521-0c36-4c41-8703-477927bc6e87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1faGFeuZ97NwS2jGR7br7oxlpSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jfxrt.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Application.RainbowBoxFunction">
+    <configuration name="CenterBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CenterBoxFunction" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoToCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoToCenter" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RainbowBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RainbowBoxFunction" />
+      <module name="day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CenterBoxFunction" />
+      <item itemvalue="Application.GoToCenter" />
+      <item itemvalue="Application.RainbowBoxFunction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RainbowBoxFunction" />
+        <item itemvalue="Application.CenterBoxFunction" />
+        <item itemvalue="Application.GoToCenter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="998cc521-0c36-4c41-8703-477927bc6e87" name="Default Changelist" comment="" />
+      <created>1596448687355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596448687355</updated>
+      <workItem from="1596448689532" duration="577000" />
+      <workItem from="1596449290967" duration="1548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596448778432">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="418" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1596448778432" />
+    <state x="692" y="307" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596448770113">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="692" y="307" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.988@0.27.1920.988" timestamp="1596448770113" />
+    <state x="744" y="335" width="424" height="482" key="FileChooserDialogImpl" timestamp="1596451719459">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="744" y="335" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1596451719459" />
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1596451726356">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1596451726356" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1596451726355">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1596451726355" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1596451726355">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1596451726355" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1596451726355">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1596451726355" />
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom" timestamp="1596449266905">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1596449266905" />
+    <state width="1874" height="318" key="GridCell.Tab.1.center" timestamp="1596449266904">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1596449266904" />
+    <state width="1874" height="318" key="GridCell.Tab.1.left" timestamp="1596449266904">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1596449266904" />
+    <state width="1874" height="318" key="GridCell.Tab.1.right" timestamp="1596449266904">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1596449266904" />
+    <state x="449" y="156" width="1024" height="843" key="SettingsEditor" timestamp="1596451291474">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="449" y="156" width="1024" height="843" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1596451291474" />
+    <state x="269" y="123" width="1372" height="794" key="new project wizard" timestamp="1596451722476">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="269" y="123" width="1372" height="794" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1596451722476" />
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1596451263747">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/0.27.1920.988@0.27.1920.988" timestamp="1596451263747" />
+  </component>
+</project>

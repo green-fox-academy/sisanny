@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Take the quiz</title>
+</head>
+<body>
+<div th:object="${randomQuestion}">
+    <h2 th:field="*{question}"></h2>
+    <a th:field="*{answer0}"></a>
+    <a th:field="*{answer1}"></a>
+    <a th:field="*{answer2}"></a>
+    <a th:field="*{answer3}"></a>
+</div>
+</body>
+</html>

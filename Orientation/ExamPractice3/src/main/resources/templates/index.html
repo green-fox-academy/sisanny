@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+</head>
+<body>
+<h1>Red Fox Matrix Storage</h1>
+<h3>Save and edit the most evil matrices.:)</h3>
+<form id="form" action="/matrix" th:method="post" th:object="${evilMatrix}" >
+    <label>Enter matrix: </label>
+    <textarea form="form" id="matrixForm" th:field="*{matrix}"></textarea>
+    <label for="authorForm">Enter matrix's author: </label>
+    <input type="text" id="authorForm" th:field="*{author}">
+    <button type="submit">Submit</button>
+</form>
+<h1>Result: </h1>
+<p th:text="${warnA} ? 'You forgot to fill the author'" style="color: red"></p>
+<p th:text="${warnM} ? 'You forgot to fill the matrix'" style="color: red"></p>
+<p th:unless="${warnA} or ${warnM}" th:text="${success}" style="color: lawngreen"></p>
+</body>
+</html>

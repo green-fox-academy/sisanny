@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+</head>
+<body>
+<form action="/" th:object="${myword}" th:method="post">
+    <label for="hun">Hungarian</label>
+    <input id="hun" type="text" th:field="*{hungarian}">
+    <a th:text="${myword.getHungarian()}" th:href="@{/suggest/{id} (id=(${myword.getId()}))}"></a>
+    <label for="czech">Czech</label>
+    <input id="czech" type="text" th:field="*{czech}">
+    <a th:text="${myword.getCzech()}" th:href="@{/suggest/{id} (id=(${myword.getId()}))}"></a>
+    <button type="submit">Translate</button>
+</form>
+</body>
+</html>

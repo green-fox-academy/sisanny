@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Thymeleaf Exercise #</title>
+    <link rel="stylesheet" type="text/css" th:href="@{style.css}"/>
+    <meta charset="utf-8"/>
+</head>
+<body>
+<table>
+    <thead>
+    <tr>
+        <td>
+            Index
+        </td>
+        <td>
+            Name
+        </td>
+        <td>
+            Balance
+        </td>
+        <td>
+            Type of animal
+        </td>
+        <td>
+            Status
+        </td>
+        <td>
+            Audience Judgement
+        </td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="animals: ${list}">
+        <td th:text="${animalsStat.index}"></td>
+        <td th:text="${animals.getName()}"></td>
+        <td th:text="${animals.getBalance()}"></td>
+        <td th:text="${animals.getAnimalType()}"></td>
+        <td th:if="${animals.isKing()}">King</td>
+        <td th:if="${animals.isKing() == false}">Plebs</td>
+        <td th:text="${animals.isGoodGuy() ? 'Good Guy' : 'Bad Guy'}"></td>
+    </tr>
+    <form th:action="@{/raise}" th:method="get" th:object="${greetingRequest}>
+        <label th:for=" *{person}
+    ">Name: </label>
+    <input th:field="*{person}"/><br/>
+    <label th:for="*{showDwarves}">Show dwarves: </label>
+    <input type="checkbox" th:field="*{showDwarves}"/><br/>
+    <input type="submit"/>
+    </form>
+    </tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Programmer Fox</title>
+</head>
+<body>
+<div th:replace="menu :: navbar (fox=${fox.getName()})"></div>
+<div th:object="${fox}">
+    <p th:text="'This is '+ *{name} + ', currently living on '+ *{food} + ' and '+ *{drink} + '. He knows '+ *{tricks.size()} + ' tricks.'">
+        <img src="/greenfox.png">
+    <h1>Known tricks</h1>
+    <ul th:if="*{tricks.size() > 0}">
+        <li th:each="trick : *{tricks}" th:text="${trick}"></li>
+    </ul>
+    <p th:if="*{tricks.size() == 0}" th:text="'You know no tricks, yet. Go and learn some!'"></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bee8c0b0-5b9c-4015-b087-b4ee4ad1540a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Week02/day3/src/main/resources/templates/Thymeleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week02/day3/src/main/resources/templates/Thymeleaf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/java/com/lionking/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/java/com/lionking/demo/controller/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/java/com/lionking/demo/model/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/resources/templates/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/main/resources/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LionKing/src/test/java/com/lionking/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/main/resources/templates/showListTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/main/resources/templates/showListTemplate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/main/resources/templates/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/main/resources/templates/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1galiZ5EtsYVkSDIT42RHY51hor" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee8c0b0-5b9c-4015-b087-b4ee4ad1540a" name="Default Changelist" comment="" />
+      <created>1598360711766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598360711766</updated>
+      <workItem from="1598360713211" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="182" width="800" height="675" key="#Project_Structure" timestamp="1598360721840">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="555" y="182" width="800" height="675" key="#Project_Structure/0.27.1920.988@0.27.1920.988" timestamp="1598360721840" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+header {
+    background: linear-gradient(to left, #ffffcc 0%, #66ccff 100%);
+    font-size: 40px;
+    padding: 7px 200px;
+}
+
+main {
+    margin: 0 200px;
+}
+
+input, 
+label {
+    display: block;
+}
+
+.content {
+    border: solid #66ccff 1px;
+}
+
+input {
+    margin-bottom: 10px;
+    border: solid #66ccff 1px;
+}
+
+button {
+    width: 90px;
+    border: solid black 1px;
+    border-radius: 10%;
+    background-color:  #66ccff;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
+
+.posts {
+    border: solid #66ccff 1px;
+    width: 700px;
+    height: 100px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin-top: 2px;
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link href="/webjars/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>PostList</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/allposts">Latest Posts<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Top Posts</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" th:href="@{/submit(userId=${userId})}">New Post</a>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0" th:action="@{/search}">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="searchbar">
+            <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+<div class="container">
+    <div class="row justify-content-center">
+        <h1 th:text="${header}"></h1>
+    </div>
+</div>
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+        </thead>
+        <tbody>
+        <tr th:each="post : ${posts}">
+            <td th:text="${post.getScore()}"></td>
+            <td>
+                <form th:action="@{/upvote/{id}/{userId}(id=${post.getId()}, userId=${userId})}" method="post">
+                    <button type="submit"><i class="material-icons">arrow_circle_up</i></button>
+                </form>
+            </td>
+            <td>
+                <form th:action="@{/downvote/{id}/{userId}(id=${post.getId()}, userId=${userId})}" method="post">
+                    <button type="submit"><i class="material-icons">arrow_circle_down</i></button>
+                </form>
+            </td>
+            <td th:text="${post.getTitle()}"></td>
+            <td th:text="${post.getCreationDate()}"></td>
+            <td>
+                <form th:action="@{/delete/{id}(id=${post.getId()})}" method="post">
+                    <button type="submit"><i class="material-icons">delete_outline</i></button>
+                </form>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<nav aria-label="...">
+    <ul class="pagination justify-content-center">
+        <li class="page-item disabled">
+            <a class="page-link" th:href="@{/${pageNumber-1}}" tabindex="-1">Previous</a>
+        </li>
+        <li class="page-item active"><a class="page-link" th:href="@{/0}">1</a></li>
+        <li class="page-item" aria-current="page">
+            <a class="page-link" th:href="@{/1(user=${userId})}">2 <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="page-item"><a class="page-link" th:href="@{/2}">3</a></li>
+        <li class="page-item">
+            <a class="page-link" th:href="@{/${pageNumber+1}}">Next</a>
+        </li>
+    </ul>
+</nav>
+
+
+<script src="/webjars/jquery/3.3.1/jquery.min.js"></script>
+<script src="/webjars/bootstrap/4.3.1/js/bootstrap.bundle.js"></script>
+</body>
+</html>

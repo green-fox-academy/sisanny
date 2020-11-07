@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Webshop</title>
+    <link rel="stylesheet" type="text/css" href="/styles.css"/>
+</head>
+<body>
+<a href="http://localhost:8080/only-available">
+    Only available
+</a>
+<a href="http://localhost:8080/cheapest-first">
+    Cheapest first
+</a>
+<a href="http://localhost:8080/contains-nike">
+    Contains nike
+</a>
+<a href="http://localhost:8080/average-stock">
+    Average stock
+</a>
+<a href="http://localhost:8080/most-expensive">
+    Most expensive
+</a>
+
+<table>
+    <thead>
+    <tr>
+        <td>
+            Name
+        </td>
+        <td>
+            Description
+        </td>
+        <td>
+            Price
+        </td>
+        <td>
+            Quantity on Stock
+        </td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="item : ${items}">
+        <td th:text="${item.getName()}"></td>
+        <td th:text="${item.getDescription()}"></td>
+        <td th:text="${item.getPrice()}"></td>
+        <td th:text="${item.getQuantityOfStock()}"></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
